@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,4 +46,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
