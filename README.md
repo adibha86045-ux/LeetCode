@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adibha86045-ux/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0041-first-missing-positive](https://github.com/adibha86045-ux/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adibha86045-ux/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/adibha86045-ux/LeetCode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
