@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/adibha86045-ux/LeetCode/tree/master/0041-first-missing-positive) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
