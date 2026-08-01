@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adibha86045-ux/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adibha86045-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adibha86045-ux/LeetCode/tree/master/1051-height-checker) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adibha86045-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
