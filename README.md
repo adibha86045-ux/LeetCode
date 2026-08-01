@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/adibha86045-ux/LeetCode/tree/master/0217-contains-duplicate) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/adibha86045-ux/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting Sort
