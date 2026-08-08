@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/adibha86045-ux/LeetCode/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adibha86045-ux/LeetCode/tree/master/0078-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/adibha86045-ux/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
