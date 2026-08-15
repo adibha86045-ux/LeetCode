@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adibha86045-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0912-sort-an-array) |
 ## Enumeration
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0912-sort-an-array) |
 | [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adibha86045-ux/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adibha86045-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0414-third-maximum-number) |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adibha86045-ux/LeetCode/tree/master/0075-sort-colors) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
