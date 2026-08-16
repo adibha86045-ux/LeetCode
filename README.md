@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/adibha86045-ux/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adibha86045-ux/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
 ## Game Theory
 |  |
