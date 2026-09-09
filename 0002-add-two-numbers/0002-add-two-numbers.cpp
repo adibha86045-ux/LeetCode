@@ -30,34 +30,27 @@ private:
     int carry = 0;
     ListNode* anshead = NULL;
     ListNode* anstail = NULL;
-    while(first != NULL && second != NULL){
-        int sum = carry + first -> val + second -> val;
+    while(first != NULL || second != NULL){
+        int val1 = 0;
+        if(first != NULL){
+            val1 = first -> val;
+        }
+        int val2 = 0;
+        if(second != NULL){
+            val2 = second -> val;
+        }
+        int sum = carry + val1+ val2;
         int digit = sum % 10;
         inserattail(anshead,anstail,digit);
         carry = sum / 10;
-        first = first->next;
-        second = second->next;
+        if(first != NULL)
+            first = first->next;
+        if(second != NULL)
+            second = second->next;
     } 
-    while(first != NULL){
-        int sum = carry + first -> val;
-        int digit = sum % 10;
-        inserattail(anshead,anstail,digit);
-        carry = sum / 10;
-        first = first -> next;
-    }  
-    while(second != NULL){
-        int sum = carry + second -> val;
-        int digit = sum % 10;
-        inserattail(anshead,anstail,digit);
-        carry = sum / 10;
-        second = second -> next;
-    }  
-    while(carry != 0){
-        int sum = carry;
-        int digit = sum % 10;
-        inserattail(anshead,anstail,digit);
-        carry = sum / 10;
-    }
+        if(carry != 0) {
+            inserattail(anshead, anstail, carry);
+        }
     return anshead;
 }
 
