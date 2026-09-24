@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adibha86045-ux/LeetCode/tree/master/1051-height-checker) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adibha86045-ux/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/adibha86045-ux/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adibha86045-ux/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adibha86045-ux/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adibha86045-ux/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adibha86045-ux/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/adibha86045-ux/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
