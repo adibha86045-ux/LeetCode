@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/adibha86045-ux/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adibha86045-ux/LeetCode/tree/master/0217-contains-duplicate) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adibha86045-ux/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/adibha86045-ux/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/adibha86045-ux/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/adibha86045-ux/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0876-middle-of-the-linked-list) |
