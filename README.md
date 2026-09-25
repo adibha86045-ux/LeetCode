@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adibha86045-ux/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adibha86045-ux/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/adibha86045-ux/LeetCode/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/adibha86045-ux/LeetCode/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -234,4 +238,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
