@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adibha86045-ux/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/adibha86045-ux/LeetCode/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Trie
 |  |
@@ -239,10 +240,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/adibha86045-ux/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/adibha86045-ux/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
