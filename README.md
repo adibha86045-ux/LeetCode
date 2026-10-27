@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adibha86045-ux/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/adibha86045-ux/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/adibha86045-ux/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adibha86045-ux/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/adibha86045-ux/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/adibha86045-ux/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/adibha86045-ux/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/adibha86045-ux/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adibha86045-ux/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adibha86045-ux/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
