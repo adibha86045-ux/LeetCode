@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/adibha86045-ux/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/adibha86045-ux/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/adibha86045-ux/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/adibha86045-ux/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/adibha86045-ux/LeetCode/tree/master/0078-subsets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adibha86045-ux/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/adibha86045-ux/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adibha86045-ux/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/adibha86045-ux/LeetCode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/adibha86045-ux/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/adibha86045-ux/LeetCode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/adibha86045-ux/LeetCode/tree/master/0231-power-of-two) |
